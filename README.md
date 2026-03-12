@@ -126,6 +126,8 @@
 
 ### 行情查询与市场数据
 
+[ChartScout](https://chartscout.io/)  实时扫描 1000 多种加密货币交易对，寻找上升楔形和三角形等形态。获取 Discord/电子邮件提醒，无需 API 密钥。提供免费套餐。 
+
 [CoinMarketCap](https://coinmarketcap.com/)  全球浏览量最高的加密行情网站，收录上万种加密资产价格和市值数据。提供代币介绍、历史K线、交易所排名等信息，是投资者查看**实时行情**与项目概况的首选平台。
 
 [CoinGecko](https://www.coingecko.com/zh)  知名度仅次于CMC的独立行情站，特点是支持多个语言和夜间模式。CoinGecko提供**市场深度分析**、链上统计、DeFi板块等数据，方便比较各交易所的交易量和流动性。亦有移动App供随时查阅行情。
